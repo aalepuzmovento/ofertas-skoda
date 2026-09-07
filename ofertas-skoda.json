@@ -1,18 +1,100 @@
-
 [
-{"orden":1,"modelo":"Fabia","tipo":"Gasolina","urlOferta":"https://www.skoda.es/promotions/promotion-detail/promociones-fabia","cuotaMensual":110,"entrada":2901.81,"cuotaFinal":11814.64,"numeroCuotas":36},
-{"orden":2,"modelo":"Scala","tipo":"Gasolina","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta_scala","cuotaMensual":110,"entrada":4250.41,"cuotaFinal":14003.87,"numeroCuotas":36},
-{"orden":3,"modelo":"Kamiq","tipo":"Gasolina","urlOferta":"https://www.skoda.es/promotions/promotion-detail/kamiq-oferta","cuotaMensual":110,"entrada":4004.04,"cuotaFinal":15513.51,"numeroCuotas":36},
-{"orden":4,"modelo":"Karoq","tipo":"Gasolina / Diésel","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta_karoq","cuotaMensual":150,"entrada":5750.62,"cuotaFinal":19619.15,"numeroCuotas":36},
-{"orden":5,"modelo":"Kodiaq","tipo":"Gasolina / Diésel / Híbrido enchufable","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta_kodiaq","cuotaMensual":270,"entrada":12672.08,"cuotaFinal":26255.77,"numeroCuotas":36},
-{"orden":6,"modelo":"Epiq","tipo":"Eléctrico","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta-epiq","cuotaMensual":130,"entrada":4809.75,"cuotaFinal":17951.55,"numeroCuotas":36},
-{"orden":7,"modelo":"Elroq","tipo":"Eléctrico","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta_elroq","cuotaMensual":150,"entrada":5937.09,"cuotaFinal":20422.31,"numeroCuotas":36},
-{"orden":8,"modelo":"Enyaq","tipo":"Eléctrico","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta_enyaq","cuotaMensual":250,"entrada":4746.71,"cuotaFinal":24050.10,"numeroCuotas":36},
-{"orden":9,"modelo":"Enyaq Coupé","tipo":"Eléctrico","urlOferta":"https://ofertas.skoda.es/?modelo=ENYAQ_COUPE_IV&acabado=60-/-85-/-85x","cuotaMensual":290,"entrada":10331.35,"cuotaFinal":27138.04,"numeroCuotas":48},
-{"orden":10,"modelo":"Peaq","tipo":"Eléctrico","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta-peaq","cuotaMensual":290,"entrada":10307.99,"cuotaFinal":28556.22,"numeroCuotas":36},
-{"orden":11,"modelo":"Octavia","tipo":"Gasolina / Diésel / Híbrido","urlOferta":"https://www.skoda.es/modelos/octavia/octavia","cuotaMensual":200,"entrada":8709.40,"cuotaFinal":19992.83,"numeroCuotas":36},
-{"orden":12,"modelo":"Octavia Combi","tipo":"Gasolina / Diésel / Híbrido","urlOferta":"https://www.skoda.es/modelos/octavia-combi/octavia","cuotaMensual":200,"entrada":9722.26,"cuotaFinal":19528.87,"numeroCuotas":36},
-{"orden":13,"modelo":"Superb","tipo":"Gasolina / Diésel / Híbrido","urlOferta":"https://www.skoda.es/promotions/promotion-detail/oferta-superb","cuotaMensual":300,"entrada":13528.37,"cuotaFinal":23502.22,"numeroCuotas":36},
-{"orden":14,"modelo":"Superb Combi","tipo":"Gasolina / Diésel / Híbrido","urlOferta":"https://www.skoda.es/promotions/promotion-detail/promociones-superb-combi","cuotaMensual":300,"entrada":12731.33,"cuotaFinal":23229.32,"numeroCuotas":36}
+  {
+    "modelo": "Fabia",
+    "cuotaMensual": 110,
+    "entrada": 2901.81,
+    "cuotaFinal": 11814.64,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Scala",
+    "cuotaMensual": 110,
+    "entrada": 4250.41,
+    "cuotaFinal": 14003.87,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Kamiq",
+    "cuotaMensual": 110,
+    "entrada": 4004.04,
+    "cuotaFinal": 15513.51,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Karoq",
+    "cuotaMensual": 150,
+    "entrada": 5750.62,
+    "cuotaFinal": 19619.15,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Kodiaq",
+    "cuotaMensual": 270,
+    "entrada": 12672.08,
+    "cuotaFinal": 26255.77,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Epiq",
+    "cuotaMensual": 130,
+    "entrada": 4809.75,
+    "cuotaFinal": 17951.55,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Elroq",
+    "cuotaMensual": 150,
+    "entrada": 5937.09,
+    "cuotaFinal": 20422.31,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Enyaq",
+    "cuotaMensual": 250,
+    "entrada": 4746.71,
+    "cuotaFinal": 24050.1,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Enyaq Coupé",
+    "cuotaMensual": 290,
+    "entrada": 10331.35,
+    "cuotaFinal": 27138.04,
+    "numeroCuotas": 48
+  },
+  {
+    "modelo": "Peaq",
+    "cuotaMensual": 290,
+    "entrada": 10307.99,
+    "cuotaFinal": 28556.22,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Octavia",
+    "cuotaMensual": 200,
+    "entrada": 8709.4,
+    "cuotaFinal": 19992.83,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Octavia Combi",
+    "cuotaMensual": 200,
+    "entrada": 9722.26,
+    "cuotaFinal": 19528.87,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Superb",
+    "cuotaMensual": 300,
+    "entrada": 13528.37,
+    "cuotaFinal": 23502.22,
+    "numeroCuotas": 36
+  },
+  {
+    "modelo": "Superb Combi",
+    "cuotaMensual": 300,
+    "entrada": 12731.33,
+    "cuotaFinal": 23229.32,
+    "numeroCuotas": 36
+  }
 ]
-```
