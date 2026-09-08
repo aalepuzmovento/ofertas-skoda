@@ -39,21 +39,24 @@
     "cuotaMensual": 130,
     "entrada": 4809.75,
     "cuotaFinal": 17951.55,
-    "numeroCuotas": "36  (en el mes 12: 4.500€)"
+    "numeroCuotas": 36
+    "cuotaEspecialMes12": 4500
   },
   {
     "modelo": "Elroq",
     "cuotaMensual": 150,
     "entrada": 5937.09,
     "cuotaFinal": 20422.31,
-    "numeroCuotas": "36 (en el mes 12: 4.500€)"
+    "numeroCuotas": 36
+    "cuotaEspecialMes12": 4500
   },
   {
     "modelo": "Enyaq",
     "cuotaMensual": 250,
     "entrada": 4746.71,
     "cuotaFinal": 24050.1,
-    "numeroCuotas": "36 (en el mes 12: 4.500€)"
+    "numeroCuotas": 36
+    "cuotaEspecialMes12": 4500
   },
   {
     "modelo": "Enyaq Coupé",
@@ -67,7 +70,8 @@
     "cuotaMensual": 290,
     "entrada": 10307.99,
     "cuotaFinal": 28556.22,
-    "numeroCuotas": "36  (en el mes 12: 4.050€)"
+    "numeroCuotas": 36
+    "cuotaEspecialMes12": 4050
   },
   {
     "modelo": "Octavia",
