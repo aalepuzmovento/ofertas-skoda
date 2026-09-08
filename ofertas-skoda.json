@@ -5,6 +5,7 @@
     "entrada": 2901.81,
     "cuotaFinal": 11814.64,
     "numeroCuotas": 36,
+    "referenciaLegal": 1,
     "cuotaEspecialMes12": null
   },
   {
@@ -13,6 +14,7 @@
     "entrada": 4250.41,
     "cuotaFinal": 14003.87,
     "numeroCuotas": 36,
+    "referenciaLegal": 2,
     "cuotaEspecialMes12": null
   },
   {
@@ -21,6 +23,7 @@
     "entrada": 4004.04,
     "cuotaFinal": 15513.51,
     "numeroCuotas": 36,
+    "referenciaLegal": 4,
     "cuotaEspecialMes12": null
   },
   {
@@ -29,6 +32,7 @@
     "entrada": 5750.62,
     "cuotaFinal": 19619.15,
     "numeroCuotas": 36,
+    "referenciaLegal": 5,
     "cuotaEspecialMes12": null
   },
   {
@@ -37,6 +41,7 @@
     "entrada": 12672.08,
     "cuotaFinal": 26255.77,
     "numeroCuotas": 36,
+    "referenciaLegal": 6,
     "cuotaEspecialMes12": null
   },
   {
@@ -45,6 +50,7 @@
     "entrada": 4809.75,
     "cuotaFinal": 17951.55,
     "numeroCuotas": 36,
+    "referenciaLegal": 11,
     "cuotaEspecialMes12": 4500
   },
   {
@@ -53,6 +59,7 @@
     "entrada": 5937.09,
     "cuotaFinal": 20422.31,
     "numeroCuotas": 36,
+    "referenciaLegal": 9,
     "cuotaEspecialMes12": 4500
   },
   {
@@ -61,6 +68,7 @@
     "entrada": 4746.71,
     "cuotaFinal": 24050.1,
     "numeroCuotas": 36,
+    "referenciaLegal": 7,
     "cuotaEspecialMes12": 4500
   },
   {
@@ -77,6 +85,7 @@
     "entrada": 10307.99,
     "cuotaFinal": 28556.22,
     "numeroCuotas": 36,
+    "referenciaLegal": 10,
     "cuotaEspecialMes12": 4050
   },
   {
@@ -85,6 +94,7 @@
     "entrada": 8709.4,
     "cuotaFinal": 19992.83,
     "numeroCuotas": 36,
+    "referenciaLegal": 3,
     "cuotaEspecialMes12": null
   },
   {
@@ -101,6 +111,7 @@
     "entrada": 13528.37,
     "cuotaFinal": 23502.22,
     "numeroCuotas": 36,
+    "referenciaLegal": 8,
     "cuotaEspecialMes12": null
   },
   {
