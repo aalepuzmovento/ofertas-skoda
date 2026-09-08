@@ -5,6 +5,7 @@
     "entrada": 2901.81,
     "cuotaFinal": 11814.64,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Scala",
@@ -12,6 +13,7 @@
     "entrada": 4250.41,
     "cuotaFinal": 14003.87,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Kamiq",
@@ -19,6 +21,7 @@
     "entrada": 4004.04,
     "cuotaFinal": 15513.51,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Karoq",
@@ -26,6 +29,7 @@
     "entrada": 5750.62,
     "cuotaFinal": 19619.15,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Kodiaq",
@@ -33,6 +37,7 @@
     "entrada": 12672.08,
     "cuotaFinal": 26255.77,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Epiq",
@@ -64,6 +69,7 @@
     "entrada": 10331.35,
     "cuotaFinal": 27138.04,
     "numeroCuotas": 48
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Peaq",
@@ -79,6 +85,7 @@
     "entrada": 8709.4,
     "cuotaFinal": 19992.83,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Octavia Combi",
@@ -86,6 +93,7 @@
     "entrada": 9722.26,
     "cuotaFinal": 19528.87,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Superb",
@@ -93,6 +101,7 @@
     "entrada": 13528.37,
     "cuotaFinal": 23502.22,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   },
   {
     "modelo": "Superb Combi",
@@ -100,5 +109,6 @@
     "entrada": 12731.33,
     "cuotaFinal": 23229.32,
     "numeroCuotas": 36
+    "cuotaEspecialMes12": null
   }
 ]
